@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Jadhav-Pravin/Jadhav-Pravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 I am Pravin Jadhav, currently learning Web Developement and building exciting real-world projects.
 
-Here are some ideas to get you started:
+📌 I am extremely motivated at learning to excel in my skills. Consistency and passion for my work are the key factors towards my success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 My technical skills include :
+
+    💻 Languages:
+
+    💻 Front-End Development:
+
+    💻 Back-End Development:
+
+    💻 Work Experience: I have worked in a Service based company for 3 years as a QA tester. Definitely it's helping me a lot in learning web development
+
+📌 Here's a link to my Portfolio
+
+📌 Contact Me :
