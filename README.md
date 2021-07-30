@@ -14,7 +14,7 @@
 
  - 💻 *Back-End Development:*  <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/> 
 
-c
+
 📌 Here's a link to my [Portfolio](https://pravinjadhav.com)
 
 
