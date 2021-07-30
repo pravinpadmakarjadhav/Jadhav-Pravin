@@ -6,14 +6,10 @@ Hi there 👋
 
 📌 My technical skills include :
 
-    💻 Languages:
+   💻 Languages::HTML,CSS, JAVASCRIPT,REACT.
 
-    💻 Front-End Development:
+   💻 Front-End Development:HTML,CSS, JAVASCRIPT,REACT.
 
-    💻 Back-End Development:
-
-    💻 Work Experience: I have worked in a Service based company for 3 years as a QA tester. Definitely it's helping me a lot in learning web development
-
-📌 Here's a link to my Portfolio
+📌 Here's a link to my Portfolio:pravinjadhav.com
 
 📌 Contact Me :
