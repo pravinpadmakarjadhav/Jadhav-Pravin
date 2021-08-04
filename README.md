@@ -19,6 +19,6 @@
 📌 Contact Me :
 
 [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>](https://pravinjadhav.hashnode.dev/)
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/pravinpadmakarjadhav/)
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/pravinpadmakarjadhav/
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/askpravinjadhav)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/askpravinjadhav/)
