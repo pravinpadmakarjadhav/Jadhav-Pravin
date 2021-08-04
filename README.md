@@ -3,8 +3,6 @@
 
 📌 I am **Pravin Jadhav**, currently learning Web Developement and building exciting real-world projects.
 
-📌
-
 📌 My technical skills include :
 
 
@@ -15,7 +13,7 @@
  - 💻 *Back-End Development:*  <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/> 
 
 
-📌 Here's a link to my [Portfolio](https://pravinjadhav.com)
+📌 Here's a link to my [Portfolio](https://pravinjadhav.com/)
 
 
 📌 Contact Me :
